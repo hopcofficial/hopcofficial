@@ -54,17 +54,28 @@ ship self contained tools without a build step, and keep everything I make dark,
 
 <img src="./assets/divider.svg" width="100%" />
 
-## &gt; contact
+## > contact
 
 <div align="center">
 
-| Channel | Handle |
-|---|---|
-| X / Twitter | [@hopcofficial](https://twitter.com/hopcofficial) |
-| Discord |[Nabu Labs server](https://discord.gg/2jvWjxf79)|
+<a href="https://x.com/hopcofficial">
+<img src="https://skillicons.dev/icons?i=twitter" height="48"/>
+</a>
 
-</div>
+<a href="https://discord.gg/2jvWjxf79">
+<img src="https://skillicons.dev/icons?i=discord" height="48"/>
+</a>
 
-<img src="./assets/footer.svg" width="100%" />
+<a href="https://t.me/hopcofficiallll">
+<img src="https://skillicons.dev/icons?i=telegram" height="48"/>
+</a>
+
+<a href="https://www.linkedin.com/in/peyman sepehri/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+</a>
+
+<a href="mailto:hopcofficial@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+</a>
 
 </div>
