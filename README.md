@@ -4,10 +4,6 @@
 
 <br/>
 
-<a href="https://twitter.com/hopcofficial"><img src="https://img.shields.io/badge/X_/_Twitter-@hopcofficial-0A0A0C?style=for-the-badge&logo=x&logoColor=EDEAE3&labelColor=0A0A0C" /></a>
-<a href="https://discord.gg/"><img src="https://img.shields.io/badge/Discord-hopcofficial-0A0A0C?style=for-the-badge&logo=discord&logoColor=EDEAE3&labelColor=0A0A0C" /></a>
-<img src="https://komarev.com/ghpvc/?username=hopcofficial&label=TERMINAL+VISITS&style=for-the-badge&color=0A0A0C&labelColor=0A0A0C" alt="visitor counter" />
-
 </div>
 
 <img src="./assets/divider.svg" width="100%" />
