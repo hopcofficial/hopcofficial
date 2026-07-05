@@ -61,8 +61,7 @@ ship self contained tools without a build step, and keep everything I make dark,
 | Channel | Handle |
 |---|---|
 | X / Twitter | [@hopcofficial](https://twitter.com/hopcofficial) |
-| Discord | hopcofficial |
-| Location | Istanbul, TR |
+| Discord |[Nabu Labs server](https://discord.gg/2jvWjxf79)|
 
 </div>
 
