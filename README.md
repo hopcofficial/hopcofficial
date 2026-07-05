@@ -39,7 +39,6 @@ ship self contained tools without a build step, and keep everything I make dark,
 </tr>
 </table>
 
-> `assets/project-card-*.svg` are placeholders — swap the text and re-export whenever a project ships. See [`docs/INSTALL.md`](./docs/INSTALL.md) for how the cards are structured.
 
 <img src="./assets/divider.svg" width="100%" />
 
