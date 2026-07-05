@@ -42,19 +42,6 @@ ship self contained tools without a build step, and keep everything I make dark,
 
 <img src="./assets/divider.svg" width="100%" />
 
-## &gt; activity_log
-
-<div align="center">
-<img src="./assets/activity-graph.svg" width="100%" alt="activity graph" />
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/hopcofficial/hopcofficial/output/dist/snake-dark.svg" width="100%" alt="contribution snake" />
-</div>
-
-<img src="./assets/divider.svg" width="100%" />
 
 ## &gt; stats
 
