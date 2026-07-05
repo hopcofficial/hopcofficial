@@ -14,10 +14,11 @@
 
 ## &gt; whoami
 
-I'm **Peyman** — building under the name **Hopcofficial**. Web3 content creator and Discord/Telegram bot developer, based in Istanbul. I design engage-to-earn mechanics, ship self-contained tools without a build step, and keep everything I make dark, cinematic, and a little dramatic.
+I'm **Peyman**  building under the name **Hopcofficial**. Web3 content creator and Discord/Telegram bot developer,vibe coder, based in Istanbul.
+ship self contained tools without a build step, and keep everything I make dark, cinematic, and a little dramatic.
 
-- 🎯 Currently building a content-automation system: Telegram bot + web dashboard with a Claude-powered brand voice
-- 🛠️ Shipping Web3 tooling — raid mechanics, bots, and mini apps
+- 🎯 Currently building a content-automation system: Telegram bot + web dashboard with a Claude powered brand voice
+- 🛠️ Shipping Web3 tooling raid mechanics, bots, and mini apps
 - 🌐 Fluent in English, Turkish, and Farsi
 - 🖤 One rule across every project: no build step, no compromise on aesthetic
 
