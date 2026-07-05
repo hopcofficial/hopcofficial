@@ -67,7 +67,7 @@ ship self contained tools without a build step, and keep everything I make dark,
 </a>
 
 <a href="https://t.me/hopcofficiallll">
-<img src="https://skillicons.dev/icons?i=telegram" height="48"/>
+<img src="https://cdn.simpleicons.org/telegram/26A5E4" height="48"/>
 </a>
 
 <a href="https://www.linkedin.com/in/peyman sepehri/">
