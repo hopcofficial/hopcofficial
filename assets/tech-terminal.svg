@@ -1,0 +1,30 @@
+<svg width="900" height="190" viewBox="0 0 900 190" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="190" fill="#0A0A0C"/>
+  <rect x="0" y="0" width="900" height="1" fill="#1A1A1E"/>
+
+  <text x="30" y="32" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12" fill="#6B6B72" letter-spacing="2">&gt; cat loadout.json</text>
+
+  <!-- column headers -->
+  <text x="30" y="66" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12" fill="#C81E3A" letter-spacing="1.5">CHAIN &amp; CONTRACTS</text>
+  <text x="330" y="66" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12" fill="#C81E3A" letter-spacing="1.5">BOT RUNTIME</text>
+  <text x="600" y="66" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12" fill="#C81E3A" letter-spacing="1.5">SHIP &amp; SERVE</text>
+
+  <g font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="14" fill="#EDEAE3">
+    <text x="30" y="92">· Solidity</text>
+    <text x="30" y="116">· Ethers.js</text>
+    <text x="30" y="140">· EVM tooling</text>
+
+    <text x="330" y="92">· Node.js</text>
+    <text x="330" y="116">· Discord.js</text>
+    <text x="330" y="140">· Telegraf</text>
+
+    <text x="600" y="92">· Vercel</text>
+    <text x="600" y="116">· HTML / CSS / JS</text>
+    <text x="600" y="140">· Next.js</text>
+  </g>
+
+  <text x="30" y="172" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="12" fill="#3F3F44">&gt; 3/3 modules loaded — ready.</text>
+  <rect x="238" y="158" width="10" height="16" fill="#B8933E">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

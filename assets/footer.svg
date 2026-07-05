@@ -1,0 +1,22 @@
+<svg width="900" height="140" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0A0A0C" stop-opacity="0"/>
+      <stop offset="40%" stop-color="#0A0A0C"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="140" fill="url(#fbg)"/>
+  <line x1="0" y1="0" x2="900" y2="0" stroke="#1A1A1E" stroke-width="1"/>
+
+  <text x="450" y="58" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="13" fill="#3F3F44" letter-spacing="2">— END OF TRANSMISSION —</text>
+
+  <text x="450" y="94" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', monospace" font-size="14" fill="#6B6B72">
+    built by <tspan fill="#C81E3A" font-weight="700">hopcofficial</tspan> · Istanbul
+  </text>
+
+  <g transform="translate(450,112)">
+    <circle r="2.5" fill="#B8933E">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
