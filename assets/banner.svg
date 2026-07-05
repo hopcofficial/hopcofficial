@@ -109,7 +109,7 @@
     </g>
     <g clip-path="url(#line4clip)">
       <text x="34" y="196" fill="#6B6B72">&gt; status: </text>
-      <text x="120" y="196" fill="#C81E3A" font-weight="700" letter-spacing="1">RAIDING THE TIMELINE</text>
+      <text x="120" y="196" fill="#C81E3A" font-weight="700" letter-spacing="1">vibe codinf to build something</text>
       <rect x="400" y="182" width="9" height="16" fill="#C81E3A">
         <animate attributeName="opacity" values="1;0;1" dur="0.9s" begin="4s" repeatCount="indefinite"/>
       </rect>
