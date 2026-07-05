@@ -105,11 +105,11 @@
       <text x="356" y="140" fill="#B8933E" font-weight="700">BOT DEV</text>
     </g>
     <g clip-path="url(#line3clip)">
-      <text x="34" y="168" fill="#6B6B72">&gt; modules: baymax Ai · ZAX · content_engine</text>
+      <text x="34" y="168" fill="#6B6B72">&gt; modules: baymax Ai · hopc agent · content_engine</text>
     </g>
     <g clip-path="url(#line4clip)">
       <text x="34" y="196" fill="#6B6B72">&gt; status: </text>
-      <text x="120" y="196" fill="#C81E3A" font-weight="700" letter-spacing="1">vibe codinf to build something</text>
+      <text x="120" y="196" fill="#C81E3A" font-weight="700" letter-spacing="1">vibe coding to build something</text>
       <rect x="400" y="182" width="9" height="16" fill="#C81E3A">
         <animate attributeName="opacity" values="1;0;1" dur="0.9s" begin="4s" repeatCount="indefinite"/>
       </rect>
