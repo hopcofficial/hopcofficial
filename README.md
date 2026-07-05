@@ -9,20 +9,16 @@
 <img src="./assets/divider.svg" width="100%" />
 
 ## &gt; whoami
-<div align="center">
 
-<img src="./assets/terminal-loop.gif" width="40%" align="right"/>
+I'm **Peyman**  building under the name **Hopcofficial**. Web3 content creator and Discord/Telegram bot developer, vibe coder.
+ship self contained tools without a build step, and keep everything I make dark, cinematic, and a little dramatic.
 
-<div align="left">
+- 🎯 Currently building a content-automation system: Telegram bot + web dashboard with a Claude powered brand voice
+- 🛠️ Shipping Web3 tooling  raid mechanics, bots, and mini apps
+- 🌐 Fluent in English, Turkish, and Farsi
+- 🖤 One rule across every project: no build step, no compromise on aesthetic
 
-## whoami
-
-Peyman  
-Web3 builder • Automation systems  
-
-Building tools, bots, and distribution layers.
-
-</div>
+<img src="./assets/divider.svg" width="100%" />
 
 ## &gt; loadout
 
