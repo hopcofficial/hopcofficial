@@ -1,0 +1,40 @@
+name: Generate Activity Graph & Dynamic Stats
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: ${{ github.repository_owner }}
+          filename: assets/activity-graph.svg
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Europe/Istanbul
+
+          # Theme — matches the profile's near-black / crimson / gold palette
+          config_display: large
+          plugin_activity: yes
+          plugin_activity_limit: 8
+          plugin_activity_visibility: all
+          plugin_activity_days: 14
+
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_recent_categories: coding, markup
+
+          plugin_stars: yes
+          plugin_stars_limit: 4
+
+          config_base_color: "#0A0A0C"
+          config_line_break: 0
